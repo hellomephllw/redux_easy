@@ -1,2 +1,3 @@
 # redux_easy
-this is a easy demo for learn redux
+This is a easy demo for learning redux,
+and welcome to view it.
